@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Price Condition</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>CHANGE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Change Price Condition</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>CHECK_PRICE_EXISTS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Check if condition price exists</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Create Price Condition</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>GT_TABLE_FIELDS</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Komponentenbeschreibungstabelle</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>GV_TABLENAME</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Nome da tabela</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZPRICE_CONDITION</CLSNAME>
+     <CMPNAME>SET_NEW_PRICE_COND</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Set new price condition</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
